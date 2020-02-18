@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # travel_app
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Photo-Search
+- First Flutter App Practice 
+>>>>>>> 251bc4d410d9c6c5b129ca2d01a9e99be0d1da19
