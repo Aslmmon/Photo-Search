@@ -34,7 +34,7 @@ dev_dependencies:
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
-# The following section is specific to Flutter.
+# The following section is specific to Flutter
 flutter:
   assets:
     - assets/images/pic1.jpg
